@@ -1,0 +1,26 @@
+body {
+    background: url('img/walpapper1.jpg');
+    color: floralwhite;
+}
+
+.box {
+    background: darkorange;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.kotak {
+    padding: 50px;
+    width: 2100px;
+    background-color: rgb(214, 175, 3);
+    color: black;
+    font-style: unset;
+}
+
+#kotak {
+    padding: 50px;
+    width: 100px;
+    background-color: rgb(188, 255, 30);
+}

@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(96, 190, 1);
+    font-family: Tahoma;
+    text-align: center;
+    padding: 100px;
+    background-color: khaki;
+}
+
+h2 {
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background: url('img/walpapper1.jpg');
+    color: floralwhite;
+}
